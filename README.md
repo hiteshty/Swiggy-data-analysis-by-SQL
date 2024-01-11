@@ -6,6 +6,10 @@
 The Swiggy Data Analysis project is an exploration and analysis of Swiggy's data using SQL queries. This project aims to derive meaningful insights from the provided dataset, shedding light on customer behaviors, popular cuisines, delivery trends, and more within the Swiggy ecosystem.
 
 
+![SQl](https://github.com/hiteshty/Swiggy-data-analysis-by-SQL/assets/111706795/0de81404-09e3-48ce-a2e1-f2fe2ab5790b)
+
+
+![SQL Swiggy Ques](https://github.com/hiteshty/Swiggy-data-analysis-by-SQL/assets/111706795/b85667f0-641e-4f1f-b579-a30609f3d0ad)
 
 ## Features
 
